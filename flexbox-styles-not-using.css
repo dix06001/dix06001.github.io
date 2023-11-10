@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+#Info {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    background-color:darkcyan;
+    color: white;
+}
+#img {
+    display: flex;
+
+    
+}
+.social-icons {
+    display: flex;
+}
+
+#Navigation {
+    display: flex;
+    flex-direction: row;
+
+}
